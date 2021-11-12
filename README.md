@@ -1,3 +1,3 @@
 # acc
 Open source project for lightweight accounting tool
-[README_ru.md](Russion version of this file)
+[Russion version of this file ](README_ru.md)
